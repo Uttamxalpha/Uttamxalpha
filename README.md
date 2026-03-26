@@ -29,10 +29,9 @@
 
 ```python
 uttam = {
-    "role"      : "GenAI Developer & ML Engineer",
+    "role"      : "GenAI Developer & AI-ML Engineer",
     "education" : "B.Tech CSE (AI) @ Medi-Caps University  2023–2027",
-    "focus"     : ["RAG Systems", "Agentic AI", "LLMs", "Computer Vision"],
-    "currently" : "ML Intern @ Robotronix Tech Pvt. Ltd.",
+    "focus"     : ["RAG Systems", "Agentic AI", "LLMs", "Deep Learning"],
     "mantra"    : "I don't just code models — I build intelligent systems 🧠"
 }
 ```
