@@ -84,7 +84,7 @@ uttam = {
 <div align="center">
 
 ### 🌿 Plant Disease Detection
-[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Uttamxalpha)
+[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Uttamxalpha/plant-health-app)
 &nbsp;
 ![CNN](https://img.shields.io/badge/Model-MobileNetV3-00C853?style=flat-square)
 ![Accuracy](https://img.shields.io/badge/Accuracy-93%25-brightgreen?style=flat-square)
@@ -95,7 +95,7 @@ uttam = {
 ---
 
 ### 🎬 YouTube Transcript RAG Chatbot
-[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Uttamxalpha)
+[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Uttamxalpha/yt_video_chatbot)
 &nbsp;
 ![Relevance](https://img.shields.io/badge/Relevance-92%25-brightgreen?style=flat-square)
 ![Queries](https://img.shields.io/badge/Handles-500%2B_Queries-blue?style=flat-square)
@@ -106,7 +106,7 @@ uttam = {
 ---
 
 ### 🏥 Medical AI Chatbot (RAG)
-[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Uttamxalpha)
+[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Uttamxalpha/voice_medi_chat)
 &nbsp;
 ![LangChain](https://img.shields.io/badge/LangChain-Powered-1C3C3C?style=flat-square)
 ![Docs](https://img.shields.io/badge/Documents-1000%2B-blue?style=flat-square)
@@ -132,7 +132,7 @@ uttam = {
 
 <div align="center">
 
-🥈 &nbsp;**Smart India Hackathon 2024 — 2nd Place**&nbsp; 🥈
+🥈 &nbsp;**Smart India Hackathon 2024 — 2nd Place In Collge**&nbsp; 🥈
 
 Led a 6-member team building a railway anomaly detection system with an ML model for train delay prioritization.
 
