@@ -1,72 +1,55 @@
 <h1 align="center">
   Hey 👋 I'm Uttam Tiwari
 </h1>
-
 <h3 align="center">
   🚀 GenAI Developer | ML Engineer | Building Real AI Systems
 </h3>
-
----
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Generative+AI+Developer;LLM+Engineer;Agentic+AI+Builder;Turning+Ideas+Into+AI+Products" />
 </div>
 
----
-
-## ⚡ Tech Stack
+⚡ Tech Stack
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,sql" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=aws,docker,git" />
+  <img src="https://skillicons.dev/icons?i=python,java,tensorflow,pytorch" />
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=fastapi,streamlit,docker,aws,git" />
+</div>
+<br>
+<div align="center">
+DomainTechnologiesLanguagesPython · Java · SQLAI/MLTensorFlow · PyTorch · Scikit-learn · KerasDeep LearningCNN · RNN · LSTM · Transformers · BERT · Transfer LearningGenAILLMs · RAG · LoRAFrameworks & ToolsLangChain · LangGraph · Hugging Face · NumPy · PandasVector DBsPinecone · FAISS · ChromaDBDeploymentStreamlit · FastAPI · Docker · AWS · Git
 </div>
 
----
-
-## 🧠 What I Build
+🧠 What I Build
 <div align="center">
-
-🧩 RAG Systems  
-🤖 Agentic AI (LangGraph)  
-📊 ML & NLP Models  
-⚡ End-to-End AI Pipelines  
-
+🧩 RAG Systems    🤖 Agentic AI (LangGraph)    📊 ML & NLP Models    ⚡ End-to-End AI Pipelines
 </div>
 
----
-
-## 🚀 Featured Projects
+🚀 Featured Projects
 <div align="center">
-
-🔹 Enterprise RAG System  
-🔹 Resume ↔ JD Matching Engine  
-🔹 Agentic AI System  
-🔹 GenAI Document Intelligence  
-
+ProjectHighlights🌿 Plant Disease Detection (CNN)Trained on 56K+ images · 93% accuracy · MobileNetV3 fine-tuning · Live prediction website🎬 YouTube Transcript RAG Chatbot92% relevance score · Handles 500+ queries · Deployed on Streamlit🏥 Medical AI Chatbot (RAG)LangChain-powered · 1000+ documents indexed · <2s latency✍️ LinkedIn Post GeneratorGemini-based · Structured prompting · 80% effort reduction
 </div>
 
----
+🏆 Achievements & Certifications
+<div align="center">
+🥈 Smart India Hackathon 2024 — Ranked 2nd · Led 6-member team · Railway anomaly detection system
+📜 IBM AI Fundamentals  |  BCG GenAI Job Simulation  |  Deloitte Technology Job Simulation  |  SQL Advanced — HackerRank
+</div>
 
-## 📊 GitHub Stats
+📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Uttamxalpha&show_icons=true&theme=tokyonight&hide_border=true"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Uttamxalpha&theme=tokyonight&hide_border=true"/>
 </div>
 
----
-
-## 🏆 Achievements
+🏅 Trophies
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Uttamxalpha&theme=tokyonight&no-frame=true&row=1&column=6" />
 </div>
 
----
-
-## 🌐 Connect With Me
+🌐 Connect With Me
 <div align="center">
-  <a href="https://linkedin.com/in/uttam-tiwari">
+  <a href="https://www.linkedin.com/in/uttam-tiwari-097025273/">
     <img src="https://img.shields.io/badge/LinkedIn-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black"/>
   </a>
   <a href="mailto:uttamt2006@gmail.com">
@@ -77,16 +60,10 @@
   </a>
 </div>
 
----
-
-## 🧠 Mindset
+🧠 Mindset
 <div align="center">
-
-💡 *"I don't just code models, I build intelligent systems."*
-
+💡 "I don't just code models, I build intelligent systems."
 </div>
-
----
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
