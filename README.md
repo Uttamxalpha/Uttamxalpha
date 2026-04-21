@@ -141,7 +141,7 @@ uttam = {
 
 <div align="center">
 
-🥈 &nbsp;**Smart India Hackathon 2024 — 2nd Place In Collge**&nbsp; 🥈
+🥈 &nbsp;**Smart India Hackathon 2024 — 2nd Place InCampus**&nbsp; 🥈
 
 Led a 6-member team building a railway anomaly detection system with an ML model for train delay prioritization.
 
