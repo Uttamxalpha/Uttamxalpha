@@ -82,6 +82,17 @@ uttam = {
 
 <div align="center">
 
+### 📱 WhatsApp Misinformation Agent
+[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Uttamxalpha/whatsapp-agent)
+&nbsp;
+![LangGraph](https://img.shields.io/badge/LangGraph-Agentic-00C7B7?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-Powered-7B2FBE?style=flat-square)
+![OCR](https://img.shields.io/badge/OCR-Hindi%2BEnglish-blue?style=flat-square)
+
+> Agentic AI system that fact-checks WhatsApp forwards using claim extraction, RAG, and web search to return structured verdicts.
+
+---
+
 ### 🌿 Plant Disease Detection
 [![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Uttamxalpha/plant-health-app)
 &nbsp;
@@ -124,7 +135,6 @@ uttam = {
 > Gemini-powered post generator with structured prompting that cuts content creation effort by 80%.
 
 </div>
-
 ---
 
 ## 🏆 Achievements
