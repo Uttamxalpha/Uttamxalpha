@@ -17,18 +17,6 @@
 
 </div>
 
-<br>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/portrait.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/portrait.svg">
-    <img src="assets/portrait.svg" width="220" alt="Uttam Tiwari">
-  </picture>
-  <br>
-  <sub>generated with <code>scripts/dotify.py</code> — see setup note at the bottom</sub>
-</div>
-
 ---
 
 ## `~/` whoami
@@ -39,17 +27,17 @@ $ cat about.txt
 
 Hi, I'm **Uttam Tiwari**. I build GenAI and agentic systems — retrieval, orchestration, and getting models to actually ship rather than stay in a notebook.
 
-- Currently a B.Tech CSE (AI) student @ Medi-Caps University (2023–2027)
+- B.Tech CSE (AI) @ Medi-Caps University (2023–2027)
 - Focused on **RAG pipelines**, **agentic AI (LangChain / LangGraph)**, and applied deep learning
-- Won 2nd place at Smart India Hackathon 2024, leading a 6-member team on a railway anomaly detection system
 - Currently building **[WhatsApp Misinformation Agent](https://github.com/Uttamxalpha/whatsapp-agent)** — claim extraction + RAG + web search, fact-checking forwards in Hindi and English
+- Fun fact: I've shipped five deployed AI products before finishing my degree
 
 ---
 
 ## Toolbox
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,mysql,tensorflow,pytorch,scikitlearn,fastapi,streamlit,docker,aws,git,github&perline=11" />
+  <img src="https://skillicons.dev/icons?i=python,java,mysql,tensorflow,pytorch,scikitlearn,fastapi,streamlit,docker,aws,git,github&perline=12" />
 </div>
 
 <div align="center">
@@ -63,26 +51,13 @@ Hi, I'm **Uttam Tiwari**. I build GenAI and agentic systems — retrieval, orche
 
 ## Skill radar
 
-<table>
-<tr>
-<td width="50%" align="center">
+<div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/radar-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/radar-light.svg">
-  <img src="assets/radar-dark.svg" width="380" alt="self-rated skill radar">
+  <img src="assets/radar-dark.svg" width="420" alt="skill radar">
 </picture>
-<br><sub>self-rated — edit <code>assets/skills.json</code></sub>
-</td>
-<td width="50%" align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/radar-langs-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/radar-langs-light.svg">
-  <img src="assets/radar-langs-dark.svg" width="380" alt="language radar from GitHub API">
-</picture>
-<br><sub>drawn live from repo language bytes</sub>
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
@@ -127,10 +102,17 @@ LangChain-powered semantic retrieval over 1000+ medical documents, sub-2s respon
 
 ---
 
-## Achievements & certifications
+## Achievements
 
-🥈 **Smart India Hackathon 2024 — 2nd Place, InCampus**
-Led a 6-member team building a railway anomaly detection system with an ML model for delay prioritization.
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/achievement-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/achievement-light.svg">
+  <img src="assets/achievement-dark.svg" width="100%" alt="Smart India Hackathon 2024 — 2nd Place">
+</picture>
+</div>
+
+## Certifications
 
 <div align="center">
 
@@ -141,19 +123,6 @@ Led a 6-member team building a railway anomaly detection system with an ML model
 
 </div>
 
----
-
-## GitHub activity
-
 <div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/metrics.dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/metrics.light.svg">
-  <img src="assets/metrics.dark.svg" width="100%" alt="GitHub metrics">
-</picture>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0066FF,100:00F7FF&height=100&section=footer"/>
 </div>
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/Uttamxalpha/Uttamxalpha/output/snake-dark.svg" width="100%" alt="contribution snake"/>
-</div>
-
